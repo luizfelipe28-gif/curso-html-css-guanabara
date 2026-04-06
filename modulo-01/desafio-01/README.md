@@ -7,8 +7,8 @@ O objetivo é exibir textos utilizando apenas parágrafos e quebras de linha.
 ---
 
 ## 🧠 O que foi praticado
-- Uso de <p>
-- Uso de <br>
+- Uso de `<p>`
+- Uso de `<br>`
 - Estrutura básica HTML
 
 ---
